@@ -1,0 +1,12 @@
+     1	Tässä on jotain tekstiä.
+     2	Toinen rivi.
+     3	3. rivi
+     4	Sama rivi
+     5	Sama rivi
+     6	Sama
+     7	Sama
+     8	Tämä ei ole sama.
+     9	Tämä teksti on kirjoitettu Gnu Emacsilla.
+    10	Tämäkin rivi on kirjoitettu Emacsilla.
+       
+lisää tavaraa
